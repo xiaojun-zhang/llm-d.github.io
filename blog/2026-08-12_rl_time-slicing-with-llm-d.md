@@ -2,7 +2,7 @@
 title: "RL Post-Training: Co-Operative Time-Slicing with llm-d"
 description: "Introducing Co-operative Time-Slicing to eliminate idle accelerators in distributed RL post-training loops."
 slug: rl-post-training-co-operative-time-slicing
-date: 2026-06-28T16:41
+date: 2026-08-12T09:00
 authors:
   - poonamlamba
   - bogdan
