@@ -2,7 +2,7 @@
 title: "Run 40% more post-training experiments on the same GPUs with llm-d time-slicing"
 description: "Demonstrates llm-d time-slicing in a real-world use case: running more post-training experiments, SFT and full-parameter RL on different base models, concurrently on the same GPUs using the time-slicing stack via OpenRL."
 slug: increase-researcher-velocity-rl-llm-d-time-slicing
-date: 2026-09-14T10:00
+date: 2026-09-22T09:00
 authors:
   - aishu
   - sunilarora

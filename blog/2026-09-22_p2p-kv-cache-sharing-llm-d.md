@@ -2,7 +2,7 @@
 title: "Pull, Don't Recompute: Peer-to-Peer KV Cache Sharing in llm-d"
 description: "When load balancing or serving topology separates a request from its cached prefix, llm-d can move the KV from a peer instead of recomputing it."
 slug: p2p-kv-cache-sharing-llm-d
-date: 2026-08-15T09:00
+date: 2026-09-22T09:00
 
 authors:
   - niliguy
