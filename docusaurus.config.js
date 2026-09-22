@@ -95,6 +95,18 @@ const config = {
     },
   },
 
+  // Add kapa.ai AI assistant widget
+  scripts: [
+    {
+      src: 'https://widget.kapa.ai/kapa-widget.bundle.js',
+      'data-website-id': '1eea1a6a-a57b-48d7-a4aa-c993481daad7',
+      'data-project-name': 'llm-d',
+      'data-project-color': '#9b4d9b',
+      'data-project-logo': 'https://llm-d.ai/img/llm-d-favicon.png',
+      async: true,
+    },
+  ],
+
   presets: [
     [
       "classic",
@@ -206,9 +218,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       announcementBar: {
-        id: "llm-d-0-8-0",
+        id: "llm-d-0-9-0",
         content:
-          '🎉 <b>llm-d 0.8 is here!</b> Multimodal, batch &amp; flow-control graduate to production, with broader accelerator support and initial RL. <a href="/docs/getting-started/quickstart"><b>See what\'s new →</b></a>',
+          '🎉 <b>llm-d 0.9 is here!</b> Hardened for scale with router HA, enhanced autoscaling, end-to-end observability and expanded hardware support. <a href="/blog/llm-d-v0.9-hardened-for-scale"><b>Read the release blog →</b></a>',
         textColor: "#ffffff",
         isCloseable: true,
       },

@@ -39,7 +39,7 @@
     "clsx": "^2.1.1",
     "prism-react-renderer": "^2.4.1",
     "react": "^19.0.0",
-    "react-dom": "^19.2.8",
+    "react-dom": "^19.3.0",
     "rehype-katex": "^7.0.1",
     "remark-math": "^6.0.0"
   },
@@ -47,7 +47,7 @@
     "@docusaurus/module-type-aliases": "3.10.2",
     "@docusaurus/types": "3.10.2",
     "@tailwindcss/cli": "^4.3.3",
-    "postcss-prefix-selector": "^2.1.1",
+    "postcss-prefix-selector": "^2.2.1",
     "tailwindcss": "^4.3.2"
   },
   "browserslist": {
